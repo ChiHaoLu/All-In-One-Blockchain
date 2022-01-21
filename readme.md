@@ -1,38 +1,90 @@
-
-
 # All In One Blockchain
-Final Updated: 2022/1/21 17:24
 
+Final Updated: 2022/1/21 17:36
+
+## Blockchain
+
+
+### From Hitripod
+
+[awesome-blockchain](https://github.com/hitripod/awesome-blockchain)
+
+### Dictionary
+
+https://metamask.zendesk.com/hc/en-us/articles/360015489611
+https://consensys.net/knowledge-base/a-blockchain-glossary-for-beginners/
+
+### Web3
+[Learn Web3 With These Free Resources](https://web3.career/learn-web3)
+[Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school/)
+
+### NFT
+[The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
+
+---
 
 ## Ethereum
 
 [ethereum boook](https://github.com/ethereumbook/ethereumbook)
 
+[Practical Ethereum Development](https://ethereum-blockchain-developer.com/)
+
+
 [ethereum JSON RPC chinese](http://cw.hubwiz.com/card/c/ethereum-json-rpc-api/1/3/17/)
 
-* https://docs.soliditylang.org/en/v0.8.11/cheatsheet.html
-* https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md
+
+---
+
+### EIP and ERC
+
+#### ERC-20
+[EIP-20: ERC-20 Token Standard](https://eips.ethereum.org/EIPS/eip-20)
+[ERC-20 Token Standard | ethereum.org](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+
+#### ERC-721
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md
+[ERC: Non-fungible Token Standard · Issue #721 · ethereum/EIPs](https://github.com/ethereum/eips/issues/721)
+[https://coincentral.com/future-of-erc-721-and-unique-assets/](https://coincentral.com/future-of-erc-721-and-unique-assets/)
+[EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
+[EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
+[LEVELUPUP](https://levelup.gitconnected.com/technical-deep-dive-into-ethereums-nft-erc-721-70ee37f09104)
+[ERC-721 Token with on chain metadata](https://nicola-attico.medium.com/erc-721-token-with-on-chain-metadata-d5e9527102cc)
+[EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
+[Your CryptoKitty Isn't Forever - Why DApps Aren't as Decentralized as You Think](https://medium.com/loom-network/your-crypto-kitty-isnt-forever-why-dapps-aren-t-as-decentralized-as-you-think-871d6acfea)
+
+---
 
 ### Go-Ethereum
 
 [Geth Documentation](https://geth.ethereum.org/docs/)
 https://goethereumbook.org/zh/transfer-eth/
 
+---
+
 ### Solidity
+
+[solidityCheatsheet](https://docs.soliditylang.org/en/v0.8.11/cheatsheet.html)
+
+[Solidity Tutorial](https://www.tutorialspoint.com/solidity/index.htm)
 
 [All In One Solidity](https://hackmd.io/@ChiHaoLu/HymtJS_oF)
 
-* https://github.com/HashLips/solidity_basics
-* https://www.tutorialspoint.com/solidity/solidity_strings.htm
-* https://github.com/ConsenSys/smart-contract-best-practices
-* https://github.com/willitscale/learning-solidity
+[Solidity by Example](https://solidity-by-example.org/)
+
+[HashLips solidity_basics](https://github.com/HashLips/solidity_basics)
+
+[ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
+[willitscale/learning-solidity](https://github.com/willitscale/learning-solidity)
+
+
+https://www.tutorialspoint.com/solidity/solidity_strings.htm
+* 
+* 
 * https://consensys.github.io/smart-contract-best-practices/tokens/
-* https://solidity-by-example.org/
 * https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
 * https://cryptozombies.io/en/course/
 * https://a16z.com/crypto-startup-school/
 * https://www.youtube.com/watch?v=ipwxYa-F1uY
-* https://ithelp.ithome.com.tw/articles/10266115
 
 ---
 
@@ -41,7 +93,20 @@ https://goethereumbook.org/zh/transfer-eth/
 
 #### Web3.js
 
+[web3.js - Ethereum JavaScript API - web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.0/index.html)
+[web3.js - Ethereum JavaScript API - web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.0/index.html)
+[Why aren't Solidity sha3 hashes not matching what other sha3 libraries produce?](https://ethereum.stackexchange.com/questions/559/why-arent-solidity-sha3-hashes-not-matching-what-other-sha3-libraries-produce)
+[Which cryptographic hash function does Ethereum use?](https://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use)
+
 #### Ethers.js
+
+[Documentation](https://docs.ethers.io/v5/)
+[ethereum(Docker)](https://easonwang.gitbook.io/blockchain/ether)
+
+#### Metamask
+
+[metamask doc](https://docs.metamask.io/guide/rpc-api.html#permissions)
+[@metamask/onboarding](https://www.npmjs.com/package/@metamask/onboarding)
 
 ---
 
@@ -63,6 +128,10 @@ https://goethereumbook.org/zh/transfer-eth/
 [How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js - [2021 Tutorial]](https://www.youtube.com/watch?v=GKJBEEXUha0)
 
 [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+
+https://reactjsexample.com/a-nice-resume-template-built-with-react-js/
+
+https://reactjsexample.com/a-starter-project-for-web-3-apps/
 
 ---
 
