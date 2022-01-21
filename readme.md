@@ -1,6 +1,6 @@
 # All In One Blockchain
 
-Final Updated: 2022/1/21 18:00
+Final Updated: 2022/1/21 17:49
 
 ## Blockchain
 
@@ -13,10 +13,14 @@ Final Updated: 2022/1/21 18:00
 * [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
 * [Learn the basics of blockchains and Ethereum (miners and validators, gas, cryptocurrencies and NFTs, block explorer, networks, etc.)](https://metamask.zendesk.com/hc/en-us/articles/360015489611)
 * [A Blockchain Glossary for Beginners](https://consensys.net/knowledge-base/a-blockchain-glossary-for-beginners/)
+* [Interactive Tutorials](https://proto.school/tutorials)
+* [Blockchain Demo](https://andersbrownworth.com/blockchain/blockchain)
 
 ### Web3
 * [Learn Web3 With These Free Resources](https://web3.career/learn-web3)
 * [Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school/)
+* [How to Become a Smart Contract Developer](https://blog.chain.link/how-to-become-a-smart-contract-developer/?utm_campaign=%F0%9F%8C%88%20buildspace%20weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 
 ### NFT
 * [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/)
@@ -71,6 +75,9 @@ https://goethereumbook.org/zh/transfer-eth/
 [cryptozombies](https://cryptozombies.io/en/course/)
 * [Master Solidity for Blockchain](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
 * [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+* [A Remix IDE extension for VSCode](https://medium.com/remix-ide/a-remix-ide-extension-for-vscode-1f751fdeee46)
+* [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+* [深入理解Solidity](https://www.twblogs.net/c/5e4ee4efbd9eee101e83da3a/)
 
 ---
 
