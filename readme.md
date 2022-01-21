@@ -48,10 +48,8 @@ Final Updated: 2022/1/21 17:49
 * [ERC: Non-fungible Token Standard · Issue #721 · ethereum/EIPs](https://github.com/ethereum/eips/issues/721)
 * [https://coincentral.com/future-of-erc-721-and-unique-assets/](https://coincentral.com/future-of-erc-721-and-unique-assets/)
 * [EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
-* [EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
 * [LEVELUPUP](https://levelup.gitconnected.com/technical-deep-dive-into-ethereums-nft-erc-721-70ee37f09104)
 * [ERC-721 Token with on chain metadata](https://nicola-attico.medium.com/erc-721-token-with-on-chain-metadata-d5e9527102cc)
-* [EIPs/eip-721.md at master · ethereum/EIPs](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
 * [Your CryptoKitty Isn't Forever - Why DApps Aren't as Decentralized as You Think](https://medium.com/loom-network/your-crypto-kitty-isnt-forever-why-dapps-aren-t-as-decentralized-as-you-think-871d6acfea)
 
 ---
@@ -85,6 +83,7 @@ https://goethereumbook.org/zh/transfer-eth/
 ### Front-End API
 
 #### Web3.js
+
 
 * [web3.js - Ethereum JavaScript API - web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.0/index.html)
 * [Why aren't Solidity sha3 hashes not matching what other sha3 libraries produce?](https://ethereum.stackexchange.com/questions/559/why-arent-solidity-sha3-hashes-not-matching-what-other-sha3-libraries-produce)
