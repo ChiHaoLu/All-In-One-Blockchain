@@ -87,7 +87,6 @@ https://goethereumbook.org/zh/transfer-eth/
 #### Web3.js
 
 * [web3.js - Ethereum JavaScript API - web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.0/index.html)
-* [web3.js - Ethereum JavaScript API - web3.js 1.0.0 documentation](https://web3js.readthedocs.io/en/v1.5.0/index.html)
 * [Why aren't Solidity sha3 hashes not matching what other sha3 libraries produce?](https://ethereum.stackexchange.com/questions/559/why-arent-solidity-sha3-hashes-not-matching-what-other-sha3-libraries-produce)
 * [Which cryptographic hash function does Ethereum use?](https://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use)
 
