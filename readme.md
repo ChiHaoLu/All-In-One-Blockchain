@@ -7,6 +7,7 @@ Final Updated: 2022/1/21 17:49
 ### From Hitripod
 
 * [awesome-blockchain](https://github.com/hitripod/awesome-blockchain)
+* [推薦 KryptoCamp 學員的鏈接與資源 from Kordan](https://hackmd.io/@kordan/HkrVDdu2Y)
 
 ### Dictionary
 
