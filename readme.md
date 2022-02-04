@@ -5,6 +5,7 @@
 Final Updated: 2022/2/4 13:58
 
 - <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完 + 粉紅色的先看</font>
+- [原文連結](https://hackmd.io/@ChiHaoLu/BkNitg_6Y)
 
 ## Blockchain Knowledge
 
