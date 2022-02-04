@@ -2,7 +2,7 @@
 
 ###### tags: `ALUnoBLOCKCHAIN`
 
-Final Updated: 2022/2/3 17:28
+Final Updated: 2022/2/4 13:58
 
 - <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完 + 粉紅色的先看</font>
 
@@ -76,7 +76,8 @@ Final Updated: 2022/2/3 17:28
 ### Web3
 * [Learn Web3 With These Free Resources](https://web3.career/learn-web3)
 * [Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school/)
-* [How to Become a Smart Contract Developer](https://blog.chain.link/how-to-become-a-smart-contract-developer/?utm_campaign=%F0%9F%8C%88%20buildspace%20weekly&utm_medium=email&utm_source=Revue%20newsletter)
+* [<font color=#ffb6c1>How to Become a Smart Contract Developer</font>](https://blog.chain.link/how-to-become-a-smart-contract-developer/?utm_campaign=%F0%9F%8C%88%20buildspace%20weekly&utm_medium=email&utm_source=Revue%20newsletter)
+* [How to build a metaverse](https://www.youtube.com/watch?v=Fvs694mWnoY)
 
 
 ### NFT
@@ -124,10 +125,10 @@ Final Updated: 2022/2/3 17:28
 ### Solidity
 
 * [solidityCheatsheet](https://docs.soliditylang.org/en/v0.8.11/cheatsheet.html)
+* [<font color=#ffb6c1>Learn Solidity basics</font>](https://youtube.com/playlist?list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo)
 * [<font color=#ffb6c1>Solidity Tutorial</font>](https://www.tutorialspoint.com/solidity/index.htm)
 * [<font color=#ffb6c1>All In One Solidity</font>](https://hackmd.io/@ChiHaoLu/HymtJS_oF)
 * [<font color=#ffb6c1>Solidity by Example</font>](https://solidity-by-example.org/)
-* [<font color=#ffb6c1>HashLips solidity_basics</font>](https://github.com/HashLips/solidity_basics)
 * [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 * [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity)
@@ -137,6 +138,7 @@ Final Updated: 2022/2/3 17:28
 * [A Remix IDE extension for VSCode](https://medium.com/remix-ide/a-remix-ide-extension-for-vscode-1f751fdeee46)
 * [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 * [深入理解 Solidity](https://www.twblogs.net/c/5e4ee4efbd9eee101e83da3a/)
+* [Upgrading your Smart Contracts | A Tutorial & Introduction](https://youtu.be/bdXJmWajZRY)
 
 
 ---
@@ -173,6 +175,9 @@ Final Updated: 2022/2/3 17:28
 * [opensea-js](https://www.npmjs.com/package/opensea-js#checking-balances-and-ownerships)
 * [ships-log/index.js at master · ProjectOpenSea/ships-log](https://github.com/ProjectOpenSea/ships-log/blob/master/src/components/Order/index.js)
 
+#### etherscam.io
+* [Etherscan API Documentation](https://etherscan.io/apis)
+
 ---
 
 ### DAPP Implement
@@ -184,19 +189,36 @@ Final Updated: 2022/2/3 17:28
 * [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 * [A starter project for web 3 apps](https://reactjsexample.com/a-starter-project-for-web-3-apps/)
 * [Build a WEB3 app to mint unlimited NFTs… But should you?](https://youtu.be/meTpMP0J5E8)
-* 
+* [The ULTIMATE Cryptocurrency Exchange Programming Tutorial for Blockchain - PT 1](https://www.youtube.com/watch?v=d_XOWCoUAHY)
 
 ---
 
-## Solana
+## Others Ecosystem
 
+### BSC
+* [Learn BSC Programming (Binance Smart Chain) FULL COURSE](https://www.youtube.com/watch?v=_4kCcGvfxaE)
+* [Create a token on Binance Smart Chain | Beginner Tutorial](https://www.youtube.com/watch?v=Q_wK6N9GtS8)
+* [Building BSC Web App - BSC Node Connection - Ivan on Tech Explains](https://www.youtube.com/watch?v=_vy5oIXg9uA)
+
+### Solana
+
+* [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
+* [Solana Javascript API Walkthrough 01 - Hello World Example](https://www.youtube.com/watch?v=vu05JSdvwmo)
+* [Solana Tutorial | Solana for Developers](https://www.youtube.com/watch?v=qNIhClYDjR8)
+* [Solana Tutorial - Create Your Own Token and NFT](https://www.youtube.com/watch?v=L4WWQzOBNIg)
 * [Create a Solana NFT collection - Ultimate guide (devnet)](https://youtu.be/35RO0lAEIxE)
 
----
-
-## Polygon
+### Polygon
 
 * [Polygon (Matic) 從零開始 發行自己的虛擬貨幣(Token)](https://devbricker.github.io/post/blockchain/moralis/polygon-matic-moralis/)
+
+### Cardano
+
+* [Cardano Plutus Tutorial #1: Hello World | Plutus Playground Smart Contracts + Haskell Explanation](https://www.youtube.com/watch?v=HtjOWAEzWL8)
+* [Building DApps with Plutus](https://www.youtube.com/watch?v=2Hyl6WaWt5E)
+* [Minting Tokens & NFTs on Cardano Tutorial](https://www.youtube.com/watch?v=WP64LuFgdog&t=180s)
+* [How To Mint An NFT On Cardano - NFT Maker Platform Overview](https://www.youtube.com/watch?v=zBvyKTvNWbU)
+* [How to create an NFT on the Cardano blockchain](https://www.youtube.com/watch?v=8KNMXOfGlr8)
 
 ---
 
@@ -246,3 +268,6 @@ Final Updated: 2022/2/3 17:28
 * [GIT Push and Pull](https://www.datacamp.com/community/tutorials/git-push-pull)
 * [Licensing a repository - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 * [常見的五個開源專案授權條款，使用軟體更自由](https://noob.tw/open-source-licenses/)
+
+
+
