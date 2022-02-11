@@ -1,15 +1,14 @@
 # All In One Blockchain
 
-###### tags: `ALUnoBLOCKCHAIN`
+###### tags: `All In One Blockchain Developer`
 
-Final Updated: 2022/2/4 13:58
+Final Updated: 2022/2/12
 
-- <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完 + 粉紅色的先看</font>
-- [原文連結](https://hackmd.io/@ChiHaoLu/BkNitg_6Y)
+---
 
-## Blockchain Knowledge
+## <font color=#ffb6c1>Blockchain Knowledge</font>
 
-本章節依照難易度及重要性陳列，所以請各位依序閱讀！多為新手入門的文章及內容，不會有官方文件還有白皮書或論文，吸收起來非常輕鬆，所以希望各位先把這些內容看完再開始動手開發！
+本章節依照難易度及重要性陳列，所以請各位依序閱讀！多為新手入門的文章及內容，不會有官方文件還有白皮書或論文，吸收起來非常輕鬆，所以希望各位先把這些內容<font color=#ffb6c1>**全部看完**</font>再開始動手開發！
 
 ### Basic（區塊鏈基礎知識 & 比特幣）
 * [農曆新年到，該如何和長輩解釋「什麼是區塊鏈」？](https://www.blocktempo.com/explain-blockchain-to-elder/)
@@ -34,6 +33,7 @@ Final Updated: 2022/2/4 13:58
 * [Proof-of-Stake (vs proof-of-work)](https://www.youtube.com/watch?v=M3EFi_POhps)
 * [What is Web 3.0? (Explained with Animations)](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 * [DAO是什麼？一個視頻帶你了解「人群的智慧」DAO (Decentralized Autonomous Organization)](https://youtu.be/2vdfMibmo-8)
+* [科普｜全方位解讀各種類型的DAO：投資型、贈與型、收藏型、協議型….](https://www.blocktempo.com/fully-understand-each-type-of-dao/?fbclid=IwAR08ylY5kPwF5uFMaRa1BgDq1IjzLyuCviSBJKgJ9bhRU_0AyI9erBBN-9Q)
 * [新手科普 | 以太坊虛擬機 EVM 是什麼，有何用處？](https://www.blocktempo.com/what-is-ethereum-virtual-machine-evm/)
 * [一文讀懂BIP、EIP、ERC等相關概念](https://kknews.cc/zh-tw/finance/mkbayb6.html)
 * [什麼是智能合約？](https://academy.binance.com/zt/articles/what-are-smart-contracts)
@@ -54,6 +54,7 @@ Final Updated: 2022/2/4 13:58
 * [Terra 是什麼？Luna 幣應用、Defi 生態系與投資解析](https://www.rayskyinvest.com/48333/what-is-terra)
 * [Polygon 鏈與 MATIC 幣是什麼？Layer 2 的發展潛力與投資管道介紹](https://www.rayskyinvest.com/48768/what-is-polygon-and-matic)
 * [公鏈之爭，誰是王者？Avalanche 雪崩協議到底是什麼？](https://smartrichs.com/blockchain-competition-who-is-the-winner-what-is-avalanche/)
+* [2022 年公鏈新趨勢，你不可不知的「擴容新路線」！](https://www.blocktempo.com/new-public-chain-trend-the-new-scalability-you-should-not-miss/?fbclid=IwAR29tJ6Pv7VD3mYRB0mqtbh07LXlwlnPtK7OwjdJERX_1cWpvbbnQfiBSNs)
 * [Vitalik申論：會有多鏈未來，但不會有跨鏈未來](https://www.abmedia.io/20220108-vitalik-wont-be-cross-chain)
 
 
@@ -64,6 +65,7 @@ Final Updated: 2022/2/4 13:58
 ### From KryptoCamp
 
 * [Hitripod - awesome-blockchain](https://github.com/hitripod/awesome-blockchain)
+* [Hitripod - 推薦 KryptoCamp 學員的鏈接與資源](https://hackmd.io/@kordan/HkrVDdu2Y)
 * [ChiHaoLu - OfficeHour Overview](https://hackmd.io/@ChiHaoLu/rky5D4-nY)
 
 ### Dictionary
@@ -76,7 +78,7 @@ Final Updated: 2022/2/4 13:58
 
 ### Web3
 * [Learn Web3 With These Free Resources](https://web3.career/learn-web3)
-* [Learn How to Build a Crypto Company](https://a16z.com/crypto-startup-school/)
+* [<font color=#ffb6c1>a16z crypto startup school</font>](https://a16z.com/crypto-startup-school/)
 * [<font color=#ffb6c1>How to Become a Smart Contract Developer</font>](https://blog.chain.link/how-to-become-a-smart-contract-developer/?utm_campaign=%F0%9F%8C%88%20buildspace%20weekly&utm_medium=email&utm_source=Revue%20newsletter)
 * [How to build a metaverse](https://www.youtube.com/watch?v=Fvs694mWnoY)
 
@@ -88,10 +90,22 @@ Final Updated: 2022/2/4 13:58
 
 ---
 
+## Bitcoin
+* [Bitcoin Whitepaper: A Peer-to-Peer Electronic Cash System ](https://bitcoin.org/bitcoin.pdf)
+* [比特幣白皮書：點對點電子現金系統](https://zhuanlan.zhihu.com/p/28614698)
+
+---
+
 ## Ethereum
 
 * [ethereum boook](https://github.com/ethereumbook/ethereumbook)
+* [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+* [以太坊黃平書：一種安全去中心化的通用交易帳本](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/ethereum_yellow_paper_cn.pdf)
 * [Practical Ethereum Development](https://ethereum-blockchain-developer.com/)
+* [以太坊 Wiki 中文目錄](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+> - [以太坊開發計畫](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
+> - [以太坊白皮書：下一代智能合約和去中心化應用平台](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+> - [以太坊術語表](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%9C%AF%E8%AF%AD%E8%A1%A8)
 * [ethereum JSON RPC chinese](http://cw.hubwiz.com/card/c/ethereum-json-rpc-api/1/3/17/)
 * [<font color=#ffb6c1>The Ethernaut - openzeppelin</font>](https://ethernaut.openzeppelin.com/)
 
@@ -114,6 +128,9 @@ Final Updated: 2022/2/4 13:58
 * [Your CryptoKitty Isn't Forever - Why DApps Aren't as Decentralized as You Think](https://medium.com/loom-network/your-crypto-kitty-isnt-forever-why-dapps-aren-t-as-decentralized-as-you-think-871d6acfea)
 * [Lower Gas NFT ERC721 solidity contract](https://www.youtube.com/watch?v=McmhpmnQLto)
 
+#### ERC-1155
+* [How to deploy an ERC1155 smart contract](https://www.youtube.com/watch?v=OQRByaENqOA)
+
 ---
 
 ### Go-Ethereum
@@ -128,7 +145,7 @@ Final Updated: 2022/2/4 13:58
 * [solidityCheatsheet](https://docs.soliditylang.org/en/v0.8.11/cheatsheet.html)
 * [<font color=#ffb6c1>Learn Solidity basics</font>](https://youtube.com/playlist?list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo)
 * [<font color=#ffb6c1>Solidity Tutorial</font>](https://www.tutorialspoint.com/solidity/index.htm)
-* [<font color=#ffb6c1>All In One Solidity</font>](https://hackmd.io/@ChiHaoLu/HymtJS_oF)
+* [<font color=#ffb6c1>All In One Solidity</font>](https://chihaolu.gitbook.io/all-in-one-solidity/)
 * [<font color=#ffb6c1>Solidity by Example</font>](https://solidity-by-example.org/)
 * [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity best practices](https://youtu.be/5aSgnkjo3P8)
@@ -140,7 +157,13 @@ Final Updated: 2022/2/4 13:58
 * [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
 * [深入理解 Solidity](https://www.twblogs.net/c/5e4ee4efbd9eee101e83da3a/)
 * [Upgrading your Smart Contracts | A Tutorial & Introduction](https://youtu.be/bdXJmWajZRY)
+* [理想区块链学院](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2)
 
+
+---
+
+### Frame & CI/CD & Testing
+* [Foundry](https://github.com/gakonst/foundry)
 
 ---
 
@@ -176,8 +199,11 @@ Final Updated: 2022/2/4 13:58
 * [opensea-js](https://www.npmjs.com/package/opensea-js#checking-balances-and-ownerships)
 * [ships-log/index.js at master · ProjectOpenSea/ships-log](https://github.com/ProjectOpenSea/ships-log/blob/master/src/components/Order/index.js)
 
-#### etherscam.io
+#### Etherscan
 * [Etherscan API Documentation](https://etherscan.io/apis)
+
+#### Coinmarketcap
+* [coinmarketcap API ](https://coinmarketcap.com/api/)
 
 ---
 
@@ -185,12 +211,19 @@ Final Updated: 2022/2/4 13:58
 
 * [React DApp Example](https://reactjsexample.com/tag/dapp/)
 * [<font color=#ffb6c1>Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity</font>](https://www.youtube.com/watch?v=coQ5dg8wM2o)
+* [NoahZinsmeister/web3-react](https://github.com/NoahZinsmeister/web3-react)
 * [Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video](https://youtu.be/9DDX3US3kss)
 * [How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js - [2021 Tutorial]](https://www.youtube.com/watch?v=GKJBEEXUha0)
 * [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 * [A starter project for web 3 apps](https://reactjsexample.com/a-starter-project-for-web-3-apps/)
 * [Build a WEB3 app to mint unlimited NFTs… But should you?](https://youtu.be/meTpMP0J5E8)
+* [使用 Hardhat、Ganache 及 Ethers.js 建立一簡易的 DEX 去中心化交易所智能合約](https://github.com/oneleo/awesome-blockchain-articles/tree/main/Build%20a%20Simple%20Decentralized%20Exchange%20(DEX)%20Smart%20Contracts%20Using%20Hardhat%2C%20Ganache%20and%20Ethers.js?fbclid=IwAR1K0-FTH0ZnNibpnEF-CP3_3-2ivTyxMZO4wLm4-04q6uCEdFgvrSUcRII)
 * [The ULTIMATE Cryptocurrency Exchange Programming Tutorial for Blockchain - PT 1](https://www.youtube.com/watch?v=d_XOWCoUAHY)
+* [Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k)
+
+### De-Fi Development
+
+* [Build Uniswap Blockchain Web 3.0 App with Solidity | Next.js | Sanity.io ($100 Crypto Giveaway)](https://www.youtube.com/watch?v=xXxjRzdYIss)
 
 ---
 
@@ -208,6 +241,7 @@ Final Updated: 2022/2/4 13:58
 * [Solana Tutorial | Solana for Developers](https://www.youtube.com/watch?v=qNIhClYDjR8)
 * [Solana Tutorial - Create Your Own Token and NFT](https://www.youtube.com/watch?v=L4WWQzOBNIg)
 * [Create a Solana NFT collection - Ultimate guide (devnet)](https://youtu.be/35RO0lAEIxE)
+* [A Deep Dive into Solana Account Model (3) — Associated Token Account](https://medium.com/@lianxiongdi/a-deep-dive-into-solana-account-model-3-associated-token-account-60a7655bec03)
 
 ### Polygon
 
@@ -269,6 +303,3 @@ Final Updated: 2022/2/4 13:58
 * [GIT Push and Pull](https://www.datacamp.com/community/tutorials/git-push-pull)
 * [Licensing a repository - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 * [常見的五個開源專案授權條款，使用軟體更自由](https://noob.tw/open-source-licenses/)
-
-
-
