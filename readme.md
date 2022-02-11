@@ -65,7 +65,6 @@ Final Updated: 2022/2/12
 ### From KryptoCamp
 
 * [Hitripod - awesome-blockchain](https://github.com/hitripod/awesome-blockchain)
-* [Hitripod - 推薦 KryptoCamp 學員的鏈接與資源](https://hackmd.io/@kordan/HkrVDdu2Y)
 * [ChiHaoLu - OfficeHour Overview](https://hackmd.io/@ChiHaoLu/rky5D4-nY)
 
 ### Dictionary
