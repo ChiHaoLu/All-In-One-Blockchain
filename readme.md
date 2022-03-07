@@ -1,8 +1,11 @@
 # All In One Blockchain
 
-###### tags: `All In One Blockchain Developer`
+###### tags: `swfLAB`
 
-Final Updated: 2022/3/3
+Final Updated: 2022/3/8
+
+- 建議先全文掃過會對整個架構比較有概念
+- <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完 + 粉紅色的先看</font>
 
 ---
 
@@ -248,10 +251,14 @@ Final Updated: 2022/3/3
 
 * [Build Uniswap Blockchain Web 3.0 App with Solidity | Next.js | Sanity.io (\$100 Crypto Giveaway)](https://www.youtube.com/watch?v=xXxjRzdYIss)
 * [Decentralized Finance](https://berkeley-defi.github.io/f21)
-* [What is a DAO? How to Build a DAO? (High Level)](https://www.youtube.com/watch?v=X_QKZzd68ro)
 * [How to Code a REAL WORLD Crypto Bot ERC 20, Uniswap, Solidity](https://www.youtube.com/watch?v=IZNcHkrEfbA)
 * [深度解讀｜代幣經濟學的四大支柱與「VeToken」模型](https://www.blocktempo.com/analyze-token-economics-four-pillars-and-ve-token/?fbclid=IwAR2SUDKN3std8FvtXGKA2FKhojPpzg7lRGFDMC6bW3TXu8lco0tq_YbIAQw)
 * [DeFi Research Team 研究成果](https://youtube.com/playlist?list=PLqlxQpG9rrbk50ApuDB_0f6QkckwoftNk)
+
+### DAO Development
+* [What is a DAO? How to Build a DAO? (High Level)](https://www.youtube.com/watch?v=X_QKZzd68ro)
+* [How to build an on-chain DAO | Typescript & Solidity (Python version in description)](https://www.youtube.com/watch?v=AhJtmUqhAqg)
+
 
 ### White Paper
 * [POLKADOT: VISION FOR A HETEROGENEOUS MULTI-CHAIN FRAMEWORK](https://whitepaper.io/document/596/polkadot-whitepaper)
