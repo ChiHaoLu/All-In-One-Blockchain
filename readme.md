@@ -2,10 +2,12 @@
 
 ###### tags: `swfLAB`
 
-Final Updated: 2022/3/8
+Final Updated: 2022/3/26
 
 - 建議先全文掃過會對整個架構比較有概念
-- <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完 + 粉紅色的先看</font>
+- <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完</font>
+- <font color=#ffb6c1>大家依據自己的職務內容先看粉紅色的部分</font>
+- 進階內容見 [Awesome-Blockchain-Todo-List](https://github.com/ChiHaoLu/Awesome-Blockchain-Todo-List)
 
 ---
 
@@ -61,11 +63,13 @@ Final Updated: 2022/3/8
 * [2022 年公鏈新趨勢，你不可不知的「擴容新路線」！](https://www.blocktempo.com/new-public-chain-trend-the-new-scalability-you-should-not-miss/?fbclid=IwAR29tJ6Pv7VD3mYRB0mqtbh07LXlwlnPtK7OwjdJERX_1cWpvbbnQfiBSNs)
 * [Delphi Digital 研判 2022 年加密領域的九大趨勢](https://zombit.info/delphi-digital-identifies-nine-trends-in-crypto-for-2022/?fbclid=IwAR25yEKCWBmqWzampqKQMuqk-RIjj8I126Wbg1LQh-jA69THm5L0RN8nQj0)
 
-### 大神們
+### 大神們 & 系列文章
 
 * [awesome-doge](https://blog.awesome-doge.org/)
 * [Taipei Ethereum Meetup 台北以太坊社群專欄](https://medium.com/taipei-ethereum-meetup)
-
+* [oneleo/awesome-blockchain-articles
+](https://github.com/oneleo/awesome-blockchain-articles)
+* [Pudgy Panda NFT](https://medium.com/@antoine_andrieux/list/pudgy-panda-nft-afe568af69ec)
 
 ---
 
@@ -84,7 +88,13 @@ Final Updated: 2022/3/8
 * [Interactive Tutorials](https://proto.school/tutorials)
 * [Blockchain Demo](https://andersbrownworth.com/blockchain/blockchain)
 
+### Development Tools
+* [<font color=#ffb6c1>quicknode</font>](https://www.quicknode.com/?utm_campaign=guides&utm_source=internal)
+* [10 Best Smart Contract Developer Tools](https://medium.com/blockchaincouncil/10-best-smart-contract-developer-tools-7efb7b59b3a2)
+
+
 ### Web3
+* [<font color=#ffb6c1>Common pitfalls for Web3 founders</font>](https://docs.google.com/document/d/14B2sDyfg8Yo0GuIJ-x_fXPBR4ec5WeO12h-7AceqjCQ/edit?usp=sharing)
 * [Learn Web3 With These Free Resources](https://web3.career/learn-web3)
 * [<font color=#ffb6c1>a16z crypto startup school</font>](https://a16z.com/crypto-startup-school/)
 * [<font color=#ffb6c1>How to Become a Smart Contract Developer</font>](https://blog.chain.link/how-to-become-a-smart-contract-developer/?utm_campaign=%F0%9F%8C%88%20buildspace%20weekly&utm_medium=email&utm_source=Revue%20newsletter)
@@ -152,6 +162,8 @@ Final Updated: 2022/3/8
 #### ERC-1155
 * [How to deploy an ERC1155 smart contract](https://www.youtube.com/watch?v=OQRByaENqOA)
 * [😎 ERC1155 tutorial](https://www.youtube.com/watch?v=iYUjuD17jG4)
+* [Fully decentralized ERC-721 and ERC-1155 NFTs](https://medium.com/coinsbench/fully-decentralized-erc-721-and-erc-1155-nfts-6c229adf9c9b)
+
 
 ---
 
@@ -169,6 +181,7 @@ Final Updated: 2022/3/8
 * [<font color=#ffb6c1>Solidity Tutorial</font>](https://www.tutorialspoint.com/solidity/index.htm)
 * [<font color=#ffb6c1>All In One Solidity</font>](https://chihaolu.gitbook.io/all-in-one-solidity/)
 * [<font color=#ffb6c1>Solidity by Example</font>](https://solidity-by-example.org/)
+* [<font color=#ffb6c1>GitHub - Awesome Solidity</font>](https://github.com/bkrem/awesome-solidity)
 * [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [Solidity best practices](https://youtu.be/5aSgnkjo3P8)
 * [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity)
@@ -180,11 +193,24 @@ Final Updated: 2022/3/8
 * [深入理解 Solidity](https://www.twblogs.net/c/5e4ee4efbd9eee101e83da3a/)
 * [Upgrading your Smart Contracts | A Tutorial & Introduction](https://youtu.be/bdXJmWajZRY)
 
-
 ---
 
-### Frame & CI/CD & Testing
-* [Foundry](https://github.com/gakonst/foundry)
+### Dev. Tools
+
+
+#### Node Service
+
+- [Infura](https://infura.io/)
+
+#### Browser
+
+- [Etherscan](https://etherscan.io/)
+- [Etherchain](https://www.etherchain.org/)
+
+#### Others
+
+- [Tools - ASCII to Hex](https://www.asciitohex.com/)
+- [Tools - ENS Manager](https://manager.ens.domains/)
 
 ---
 
@@ -245,15 +271,21 @@ Final Updated: 2022/3/8
 * [使用 Hardhat、Ganache 及 Ethers.js 建立一簡易的 DEX 去中心化交易所智能合約](https://github.com/oneleo/awesome-blockchain-articles/tree/main/Build%20a%20Simple%20Decentralized%20Exchange%20(DEX)%20Smart%20Contracts%20Using%20Hardhat%2C%20Ganache%20and%20Ethers.js?fbclid=IwAR1K0-FTH0ZnNibpnEF-CP3_3-2ivTyxMZO4wLm4-04q6uCEdFgvrSUcRII)
 * [The ULTIMATE Cryptocurrency Exchange Programming Tutorial for Blockchain - PT 1](https://www.youtube.com/watch?v=d_XOWCoUAHY)
 * [Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k)
+* [Dutch Auction | Solidity 0.8](https://www.youtube.com/watch?v=Ykt2Wqt6pBQ)
 
 
-### De-Fi Development
+### DeFi Development
 
 * [Build Uniswap Blockchain Web 3.0 App with Solidity | Next.js | Sanity.io (\$100 Crypto Giveaway)](https://www.youtube.com/watch?v=xXxjRzdYIss)
 * [Decentralized Finance](https://berkeley-defi.github.io/f21)
 * [How to Code a REAL WORLD Crypto Bot ERC 20, Uniswap, Solidity](https://www.youtube.com/watch?v=IZNcHkrEfbA)
 * [深度解讀｜代幣經濟學的四大支柱與「VeToken」模型](https://www.blocktempo.com/analyze-token-economics-four-pillars-and-ve-token/?fbclid=IwAR2SUDKN3std8FvtXGKA2FKhojPpzg7lRGFDMC6bW3TXu8lco0tq_YbIAQw)
+* [代幣經濟學｜如何評估代幣供需？從投報率、博弈論與迷因來衡量需求動能](https://www.abmedia.io/20220310-the-basics-of-evaluating-cryptocurrencies?fbclid=IwAR1p2512RhcqoYKM_A9mdwvFYjB_0sOqnYveqShvY0BjaT_tpGBJNAW3jk0)
 * [DeFi Research Team 研究成果](https://youtube.com/playlist?list=PLqlxQpG9rrbk50ApuDB_0f6QkckwoftNk)
+* [剖析7種常見設計架構，了解為何沒有完美的去中心穩定幣？](https://www.abmedia.io/20220314-exploring-the-design-architecture-of-decentralized-stablecoins)
+* [代幣經濟學 II：深掘代幣供應量層面，為何說比特幣很單純，其它加密貨幣很複雜？
+](https://www.abmedia.io/20220314-tokenomics-102-digging-deeper-on-supply?fbclid=IwAR3gNmkEEnes8Ab1PW2LeVcbbOJDrXI2S6leFC2ABIqsBMb3KGJMWPbzVC4)
+
 
 ### DAO Development
 * [What is a DAO? How to Build a DAO? (High Level)](https://www.youtube.com/watch?v=X_QKZzd68ro)
@@ -323,6 +355,7 @@ Final Updated: 2022/3/8
 
 ## 其他資源
 
+ 
 ### 中文區塊鏈開發書單
 - 全球第一個成熟商用區塊鏈框架：HyperLedger Fabric實戰
 - 區塊鏈智能合約與 DApp 實務應用
@@ -341,6 +374,8 @@ Final Updated: 2022/3/8
 * [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 * [React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 * [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+* [ReACT -Props](https://veridelisi.medium.com/react-84eb3a8822d2)
+
 
 ### Forum
 
@@ -356,7 +391,7 @@ Final Updated: 2022/3/8
 * [新增、初始 Repository](https://gitbook.tw/chapters/using-git/init-repository)
 * [Git：基本概念介紹與指令](https://medium.com/@tina2793778/git-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%BB%8B%E7%B4%B9%E8%88%87%E6%8C%87%E4%BB%A4-d5d85607cd7d)
 * [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_TW)
-* [Deployment | Create React App](https://create-react-app.dev/docs/deployment/#github-pages)
+* [<font color=#ffb6c1>Deployment | Create React App</font>](https://create-react-app.dev/docs/deployment/#github-pages)
 * [GIT Push and Pull](https://www.datacamp.com/community/tutorials/git-push-pull)
 * [Licensing a repository - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 * [常見的五個開源專案授權條款，使用軟體更自由](https://noob.tw/open-source-licenses/)
