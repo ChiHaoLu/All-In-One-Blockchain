@@ -2,7 +2,7 @@
 
 ###### tags: `swfLAB`
 
-Final Updated: 2022/3/26
+Final Updated: 2022/3/30
 
 - 建議先全文掃過會對整個架構比較有概念
 - <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完</font>
@@ -272,6 +272,7 @@ Final Updated: 2022/3/26
 * [The ULTIMATE Cryptocurrency Exchange Programming Tutorial for Blockchain - PT 1](https://www.youtube.com/watch?v=d_XOWCoUAHY)
 * [Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k)
 * [Dutch Auction | Solidity 0.8](https://www.youtube.com/watch?v=Ykt2Wqt6pBQ)
+* [Scaffold-ETH 為例示範全開發流程](https://github.com/scaffold-eth/scaffold-eth)
 
 
 ### DeFi Development
@@ -332,6 +333,8 @@ Final Updated: 2022/3/26
 
 ## 課程資源
 
+### [110-2 分散式金融導論_廖世偉（筆記）](https://hackmd.io/@ChiHaoLu/B1bsBgbxq)
+
 ### Online Courses
 
 | Department  | Type | Description | Fee | Duration | 
@@ -364,18 +367,7 @@ Final Updated: 2022/3/26
 - 區塊鏈生存指南: 帶你用 Python 寫出區塊鏈!
 - 完全自學！Go 語言 (Golang) 實戰聖經
 
-### Node.js
-* [package-lock.json的作用](https://iter01.com/564979.html)
-
-
-### React
-* [<font color=#ffb6c1>Todo List React + Node.js</font>](https://ethereum-blockchain-developer.com/200-react-node-todo-list/00-overview/)
-* [<font color=#ffb6c1>Full Modern React Tutorial</font>](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
-* [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-* [React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!](https://www.youtube.com/watch?v=Dorf8i6lCuk)
-* [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
-* [ReACT -Props](https://veridelisi.medium.com/react-84eb3a8822d2)
-
+---
 
 ### Forum
 
@@ -386,13 +378,3 @@ Final Updated: 2022/3/26
 * programmerall.com
 * programmer.help
 * https://news.ycombinator.com/news
-
-### Git
-* [新增、初始 Repository](https://gitbook.tw/chapters/using-git/init-repository)
-* [Git：基本概念介紹與指令](https://medium.com/@tina2793778/git-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%BB%8B%E7%B4%B9%E8%88%87%E6%8C%87%E4%BB%A4-d5d85607cd7d)
-* [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_TW)
-* [<font color=#ffb6c1>Deployment | Create React App</font>](https://create-react-app.dev/docs/deployment/#github-pages)
-* [GIT Push and Pull](https://www.datacamp.com/community/tutorials/git-push-pull)
-* [Licensing a repository - GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
-* [常見的五個開源專案授權條款，使用軟體更自由](https://noob.tw/open-source-licenses/)
-* [Git 版本控制：如何進行多人協作 & 同步分支](https://hackmd.io/@Heidi-Liu/git-workflow)
