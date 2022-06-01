@@ -2,7 +2,7 @@
 
 ###### tags: `swfLAB`
 
-Final Updated: 2022/3/30
+Final Updated: 2022/6/2
 
 - 建議先全文掃過會對整個架構比較有概念
 - <font color=#ffb6c1>章節 Blockchain Knowledge 全部看完</font>
@@ -65,11 +65,13 @@ Final Updated: 2022/3/30
 
 ### 大神們 & 系列文章
 
+* [<font color=#ffb6c1>Dapp-Learning-DAO/Dapp-Learning</font>](https://github.com/Dapp-Learning-DAO)
 * [awesome-doge](https://blog.awesome-doge.org/)
 * [Taipei Ethereum Meetup 台北以太坊社群專欄](https://medium.com/taipei-ethereum-meetup)
 * [oneleo/awesome-blockchain-articles
 ](https://github.com/oneleo/awesome-blockchain-articles)
 * [Pudgy Panda NFT](https://medium.com/@antoine_andrieux/list/pudgy-panda-nft-afe568af69ec)
+
 
 ---
 
@@ -291,6 +293,8 @@ Final Updated: 2022/3/30
 ### DAO Development
 * [What is a DAO? How to Build a DAO? (High Level)](https://www.youtube.com/watch?v=X_QKZzd68ro)
 * [How to build an on-chain DAO | Typescript & Solidity (Python version in description)](https://www.youtube.com/watch?v=AhJtmUqhAqg)
+* [Organization Legos: The State of DAO Tooling](https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e)
+
 
 
 ### White Paper
@@ -333,8 +337,6 @@ Final Updated: 2022/3/30
 
 ## 課程資源
 
-### [110-2 分散式金融導論_廖世偉（筆記）](https://hackmd.io/@ChiHaoLu/B1bsBgbxq)
-
 ### Online Courses
 
 | Department  | Type | Description | Fee | Duration | 
@@ -358,6 +360,32 @@ Final Updated: 2022/3/30
 
 ## 其他資源
 
+### 常用連結
+
+#### 即時資訊
+
+- [Amberdata](https://amberdata.io/dashboards/infrastructure?size=10)
+- [ETH Gas Station](https://ethgasstation.info/)
+- [Ethernodes](https://www.ethernodes.org/network/1/nodes)
+- [withpragma](https://www.withpragma.com/) (event watcher)
+
+
+#### 已部署的智能合約排行榜
+- [DappRadar - Ranked list of blockchain dapps](https://dappradar.com/)
+
+#### 以太坊視覺化
+
+- [ethviewer](http://ethviewer.live)
+- [ethervis](https://ethervis.com/) 追蹤地址
+
+
+#### 以太坊區塊鏈的相關資源（2018/09/19 上課內容）
+- 區塊鏈文章：
+  - [Essays on the business and strategy of crypto](https://www.tonysheng.com/)
+- 以太坊生態系統開發資助：
+  - [Grants for Ethereum related work](https://app.tettra.co/teams/ethereum/pages/grants-for-ethereum-related-work)
+  - [The Ethereum Foundation](https://www.ethereum.org/foundation)
+  - [Ethereum Community Fund](https://ecf.network/)
  
 ### 中文區塊鏈開發書單
 - 全球第一個成熟商用區塊鏈框架：HyperLedger Fabric實戰
@@ -378,3 +406,5 @@ Final Updated: 2022/3/30
 * programmerall.com
 * programmer.help
 * https://news.ycombinator.com/news
+* https://www.smartcontractresearch.org/
+
